@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "FloodHelp",
-  description: "Ajude os desabrigados pelas enchentes.",
+  title: "Fundfy",
+  description: "Crie e ajude campanhas com criptomoedas",
   charSet: "utf-8"
 };
 
